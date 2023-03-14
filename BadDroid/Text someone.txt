@@ -1,0 +1,19 @@
+REM texts someone in there messges 
+GUI s
+DELAY 750
+TAB
+TAB
+DELAY 500
+ENTER
+DELAY 1500
+STRING hey bro can you gimme
+DELAY 900
+ENTER
+DELAY 600
+STRING your FIRST name and LAST name
+DELAY 350
+TAB
+TAB
+DELAY 200
+ENTER
+REM texts someone in there messges 
