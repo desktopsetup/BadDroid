@@ -17,21 +17,21 @@ such as :
 
 ㅤ
 
-The "Caught in 4k" Script
+The "Caught in 480p" Script
 
 Description : Opens up a sepcific link and screenshots what your looking at :)
 
 ㅤ
 
-The "RLSWIPER" Script
+The "RLSWIPER testin" Script
 
 Description : Goes through the device and check out everything (is not perfect)
 
 ㅤ
 
-The "My Last Picture" Script
+The "Gmail" Script
 
-Description : Crashes the screen with a bunch of pictures (may reboots itself, may depend on the device)
+Description : Opens up Gmail makes a new Compose fills out everything to email someone.
 
 ㅤ
 
@@ -47,9 +47,9 @@ Description : SPAMS OVER 100+ TABS USE WISELY
 
 ㅤ
 
-The "Text Me" Script
+The "Text Someone" Script
 
-Description : Opens up Messages and types to whoever was last texted
+Description : Opens up SMS and types to whoever was last texted
 
 ㅤㅤ
 
