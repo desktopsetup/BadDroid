@@ -6,7 +6,7 @@ Fun BadUSB scripts for Android! Tested with BadBLE Made for the Flipper Zero!
 More Custom script TOOLs for Android, instead of those basic scripts.
 ㅤ
 
-But with some of these scripts you can do more access for Android 
+But with some of these scripts you can do more fun control for Android 
 Tested on; 
 Moto G
 Samsung
