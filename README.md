@@ -2,8 +2,7 @@
 Fun BadUSB scripts for Android! Tested with BadBLE Made for the Flipper Zero!
 
 Tested on: 
-Moto G,
-Samsung,
+Moto G and
 Note 9.
 ㅤㅤ
 
