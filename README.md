@@ -8,8 +8,7 @@ Note 9.
 
 More Custom script TOOLs for Android, instead of those basic scripts.
 ㅤ
-
-But with some of these scripts you can do more fun control for Android 
+with some of these scripts you can do more fun control for Android 
 
 
 such as :
