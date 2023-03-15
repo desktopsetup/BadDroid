@@ -75,8 +75,9 @@ https://user-images.githubusercontent.com/114778067/225416293-278149e7-5f2f-40e0
 (REMINDER THESE ARE NOT PERFECT SCRIPTS MAY NEED TO REDO SOME FOR THEM TO WORK)
 
 
-# this is not all the scripts just a short demo and info about some to get an idea, inside the scripts it shows what they do
+# This is not all the scripts just a short demo Of Some
 
+insde the scripts it shows what they do! 
 ㅤ
 
 If YOU make some custom Scripts from BadDroid id like to know, cause I would love to add more BadDroid scripts based off the Flipper Community! 
