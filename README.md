@@ -42,7 +42,7 @@ Description : DELTES 100+ TABS USE WISELY
 
 The "Tab Flooder" Script
 
-Description : SPAMS OVER 100+ TABS USE WISELY 
+Description : SPAMS OVER 100+ TABS
 
 https://user-images.githubusercontent.com/114778067/225382422-b667f7d1-7ac5-4e30-9d84-974e019f7648.mp4
 
