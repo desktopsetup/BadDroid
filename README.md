@@ -36,8 +36,6 @@ The "Not MY TABS" Script
 
 Description : DELTES 100+ TABS USE WISELY 
 
-https://user-images.githubusercontent.com/114778067/225381493-ca325458-4803-4ddb-a8b6-2c89360c4f55.mp4
-
 
 ㅤ
 
@@ -50,6 +48,8 @@ Description : SPAMS OVER 100+ TABS USE WISELY
 The "Text Someone" Script
 
 Description : Opens up SMS and types to whoever was last texted
+https://user-images.githubusercontent.com/114778067/225381493-ca325458-4803-4ddb-a8b6-2c89360c4f55.mp4
+
 
 ㅤㅤ
 
