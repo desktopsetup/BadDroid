@@ -1,0 +1,8 @@
+REM deletes 100 of your tabs
+GUI b
+DELAY 700
+CTRL w
+DELAY 100
+CTRL w
+REPEAT 100
+REM deletes 100 of your tabs

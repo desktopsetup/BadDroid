@@ -1,0 +1,10 @@
+REM goes through your apps that are currently opened
+ALT TAB
+DELAY 1000
+TAB
+DELAY 700
+ENTER
+DOWN ARROW
+DELAY 300
+ENTER
+REM goes through your apps that are currently opened
