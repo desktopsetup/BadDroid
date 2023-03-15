@@ -1,0 +1,8 @@
+REM opens chrome and floads tabs
+GUI b
+DELAY 700
+CTRL t
+DELAY 100
+CTRL t
+REPEAT 100
+REM opens chrome and floads tabs
