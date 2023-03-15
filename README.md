@@ -1,8 +1,7 @@
 # BadDroid
 Fun BadUSB scripts for Android! Tested with BadBLE Made for the Flipper Zero!
 
-Tested on: 
-Motorola 
+# Tested on: Motorola And Note 20
 ㅤㅤ
 
 More Custom script TOOLs for Android, instead of those basic scripts.
