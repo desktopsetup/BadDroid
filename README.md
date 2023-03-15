@@ -30,8 +30,6 @@ The "Gmail AutoFiller" Script
 
 Description : Opens up Gmail makes a new Compose and fills out everything and sends the email.
 
-https://user-images.githubusercontent.com/114778067/225382422-b667f7d1-7ac5-4e30-9d84-974e019f7648.mp4
-
 
 ㅤ
 
@@ -45,6 +43,9 @@ Description : DELTES 100+ TABS USE WISELY
 The "Tab Flooder" Script
 
 Description : SPAMS OVER 100+ TABS USE WISELY 
+
+https://user-images.githubusercontent.com/114778067/225382422-b667f7d1-7ac5-4e30-9d84-974e019f7648.mp4
+
 
 ㅤ
 
