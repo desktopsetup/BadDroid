@@ -30,7 +30,7 @@ The "Gmail AutoFiller" Script
 
 Description : Opens up Gmail makes a new Compose and fills out everything and sends the email.
 
-https://user-images.githubusercontent.com/114778067/225395099-348e8c44-1033-4f3e-9c06-5910f879732b.mp4
+https://user-images.githubusercontent.com/114778067/225402224-d8a252eb-cd09-46b6-b568-5bc663c90b53.mp4
 
 
 
