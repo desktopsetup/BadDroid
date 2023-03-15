@@ -31,6 +31,7 @@ The "Gmail AutoFiller" Script
 Description : Opens up Gmail makes a new Compose and fills out everything and sends the email.
 
 https://user-images.githubusercontent.com/114778067/225383193-6317170c-970d-4a29-91a4-42152de33990.mp4
+
 ㅤ
 
 The "Not MY TABS" Script
