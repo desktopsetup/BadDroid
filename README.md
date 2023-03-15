@@ -1,4 +1,4 @@
-A# BadDroid
+# BadDroid
 Fun BadUSB scripts for Android! Tested with BadBLE Made for the Flipper Zero!
 
 Tested on: 
@@ -30,7 +30,7 @@ The "Gmail AutoFiller" Script
 
 Description : Opens up Gmail makes a new Compose and fills out everything and sends the email.
 
-https://user-images.githubusercontent.com/114778067/225402224-d8a252eb-cd09-46b6-b568-5bc663c90b53.mp4
+https://user-images.githubusercontent.com/114778067/225417711-789dfdb1-5699-47b3-9ef3-c232bc3215f4.mp4
 
 
 
