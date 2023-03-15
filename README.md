@@ -1,7 +1,8 @@
 # BadDroid
 Fun BadUSB scripts for Android! Tested with BadKB Made for the Flipper Zero!
 
-# Tested on: Motorola And Note 20
+# Tested on: Motorola PURE And Samsung Galaxy Note 20
+"REMINDER THESE MAY NOT FULLY WORK FOR YOUR ANDROID OR DEVICE MODEL" and such, they should still atleast do the actions
 ㅤㅤ
 
 Custom script TOOLs for Android, instead of those basic scripts.
