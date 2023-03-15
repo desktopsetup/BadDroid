@@ -7,7 +7,6 @@ Note 9.
 ㅤㅤ
 
 More Custom script TOOLs for Android, instead of those basic scripts.
-ㅤ
 with some of these scripts you can do more fun control for Android 
 
 
@@ -64,7 +63,7 @@ Description : goes through your tabs 1-9 and check them out (May need to adjust 
 
 ㅤ
 
-If YOU make some custom Scripts from BadOS id like to know, cause I would love to add more BadOS scripts based off the Flipper Community! 
-if you can my discord is "wiskey#0708"
+If YOU make some custom Scripts from BadDroid id like to know, cause I would love to add more BadDroid scripts based off the Flipper Community! 
+if you want my discord is "wiskey#0708"
 Im also on the offical FlipperZero Discord server where if you want id like to see some.
 
