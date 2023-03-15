@@ -69,13 +69,13 @@ Description :
 https://user-images.githubusercontent.com/114778067/225416293-278149e7-5f2f-40e0-9d8f-915c45445c1e.mp4
 
 
-ㅤ
-ㅤ
+
+
 
 (REMINDER THESE ARE NOT PERFECT SCRIPTS MAY NEED TO REDO SOME FOR THEM TO WORK)
 
 
-
+# this is not all the scripts just a short demo and info about some to get an idea, inside the scripts it shows what they do
 
 ㅤ
 
