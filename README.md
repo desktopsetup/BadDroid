@@ -28,7 +28,7 @@ Description : Goes through the device and check out everything (is not perfect)
 
 The "Gmail AutoFiller" Script
 
-Description : Opens up Gmail makes a new Compose and fills out everything and sends the email.
+Description :
 
 https://user-images.githubusercontent.com/114778067/225417711-789dfdb1-5699-47b3-9ef3-c232bc3215f4.mp4
 
@@ -46,7 +46,7 @@ Description : DELTES 100+ TABS USE WISELY
 
 The "Tab Flooder" Script
 
-Description : SPAMS OVER 100+ TABS
+Description :
 
 https://user-images.githubusercontent.com/114778067/225382422-b667f7d1-7ac5-4e30-9d84-974e019f7648.mp4
 
@@ -55,7 +55,7 @@ https://user-images.githubusercontent.com/114778067/225382422-b667f7d1-7ac5-4e30
 
 The "Text Someone" Script
 
-Description : Opens up SMS and types to whoever was last texted
+Description : 
 
 https://user-images.githubusercontent.com/114778067/225381493-ca325458-4803-4ddb-a8b6-2c89360c4f55.mp4
 
@@ -64,7 +64,7 @@ https://user-images.githubusercontent.com/114778067/225381493-ca325458-4803-4ddb
 
 The "Tab Viewer" Script
 
-Description : goes through your tabs 1-9 and check them out (May need to adjust Delay depending on internet speed)
+Description : 
 
 https://user-images.githubusercontent.com/114778067/225416293-278149e7-5f2f-40e0-9d8f-915c45445c1e.mp4
 
