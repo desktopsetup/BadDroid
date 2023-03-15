@@ -27,9 +27,9 @@ Description : Goes through the device and check out everything (is not perfect)
 
 ㅤ
 
-The "Gmail" Script
+The "Gmail AutoFill" Script
 
-Description : Opens up Gmail makes a new Compose fills out everything to email someone.
+Description : Opens up Gmail makes a new Compose and fills out everything and sends the email.
 
 ㅤ
 
