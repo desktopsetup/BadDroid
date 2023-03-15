@@ -1,4 +1,4 @@
-# BadDroid
+A# BadDroid
 Fun BadUSB scripts for Android! Tested with BadBLE Made for the Flipper Zero!
 
 Tested on: 
