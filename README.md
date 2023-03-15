@@ -80,7 +80,7 @@ https://user-images.githubusercontent.com/114778067/225416293-278149e7-5f2f-40e0
 insde the scripts it shows what they do! 
 ㅤ
 
-If YOU make some custom Scripts from BadDroid id like to know, cause I would love to add more BadDroid scripts based off the Flipper Community! 
+If YOU make something cool with the custom Scripts from BadDroid id like to see some, cause I would love to add more BadDroid scripts based off the Flipper Community! 
 if you want my discord is "wiskey#0708"
 Im also on the offical FlipperZero Discord server where if you want id like to see some.
 
