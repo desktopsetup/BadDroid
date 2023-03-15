@@ -1,6 +1,0 @@
-REM floads tabs
-CTRL t
-DELAY 100
-CTRL t
-REPEAT 100
-REM floads tabs
