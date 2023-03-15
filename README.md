@@ -63,6 +63,8 @@ https://user-images.githubusercontent.com/114778067/225381493-ca325458-4803-4ddb
 The "Tab Viewer" Script
 
 Description : goes through your tabs 1-9 and check them out (May need to adjust Delay depending on internet speed)
+
+https://user-images.githubusercontent.com/114778067/225402224-d8a252eb-cd09-46b6-b568-5bc663c90b53.mp4
 ㅤ
 ㅤ
 
