@@ -1,13 +1,9 @@
-REM opens your music
+REM opens your music (Spotify, Youtube Music, Music Player)
 GUI p
 DELAY 500
 TAB
 DELAY 500
 ENTER
 DELAY 500
-BACKSPACE
-DELAY 500
-BACKSPACE
-DELAY 500
 SPACE
-REM opens your music
+REM opens your music (Spotify, Youtube Music, Music Player)
