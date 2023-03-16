@@ -15,7 +15,10 @@ such as :
 
 The "Caught in 480p" Script
 
-Description : Opens up a sepcific link and screenshots what your looking at :)
+Description : 
+
+https://user-images.githubusercontent.com/114778067/225493247-97df6960-d014-44c8-9b75-7443b74b1ba0.mp4
+
 
 ㅤ
 
