@@ -1,4 +1,4 @@
-REM will do something random and mess with your gmail account settings (you can edit if you actually want it to do something to your account)
+REM will do something randomly and mess with your gmail account settings (edit if you actually want it to do something specific to your account)
 CTRL e
 DELAY 1999
 CTRL ,
@@ -25,4 +25,4 @@ TAB
 ENTER
 TAB
 DOWN ARROW
-REM will do something random and mess with your gmail account settings (you can edit if you actually want it to do something to your account)
+REM will do something randomly and mess with your gmail account settings (edit if you actually want it to do something specific to your account)
