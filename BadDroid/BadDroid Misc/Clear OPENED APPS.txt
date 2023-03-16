@@ -1,10 +1,10 @@
-REM goes through your apps that are currently opened
+REM Clears all opened apps (may work on 2nd time doing the script)
 ALT TAB
 DELAY 1000
-TAB
+DOWN ARROW
 DELAY 700
 ENTER
 DOWN ARROW
 DELAY 300
 ENTER
-REM goes through your apps that are currently opened
+REM Clears all opened apps (may work on 2nd time doing the script)
