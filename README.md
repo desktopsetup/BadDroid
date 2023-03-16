@@ -77,7 +77,7 @@ https://user-images.githubusercontent.com/114778067/225416293-278149e7-5f2f-40e0
 (REMINDER THESE ARE NOT PERFECT SCRIPTS MAY NEED TO REDO SOME FOR THEM TO WORK)
 
 
-# This is not all the scripts READ the scripts code, made for modififcations of your liking
+# This is not all the scripts READ the scripts code, made for modifications of your liking
 
 ㅤ
 
