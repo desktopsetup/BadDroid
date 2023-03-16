@@ -1,4 +1,4 @@
-REM opens gmail and send email to someone
+REM opens up gmail and send email to someone
 GUI e
 DELAY 2099
 CTRL n
@@ -18,4 +18,4 @@ ENTER
 DELAY 300
 ENTER
 CTRL ENTER
-REM opens gmail and send email to someone
+REM opens up gmail and sends a email to someone
