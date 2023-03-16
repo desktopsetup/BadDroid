@@ -1,3 +1,0 @@
-CTRL w
-TAB
-TAB
