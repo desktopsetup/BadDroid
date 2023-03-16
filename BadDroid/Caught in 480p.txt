@@ -1,5 +1,3 @@
-CTRL SPACE
-DELAY 700
 STRING https://twitter.com/IrinaKumai/status/1591430766101434369
 DELAY 250
 ENTER
