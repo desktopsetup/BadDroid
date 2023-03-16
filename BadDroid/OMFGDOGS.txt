@@ -1,0 +1,8 @@
+REM doggys
+STRING https://www.omfgdogs.com
+STRING_DELAY 500
+DELAY 500
+ENTER
+DELAY 800
+ENTER
+REM doggys

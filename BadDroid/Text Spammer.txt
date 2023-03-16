@@ -1,0 +1,9 @@
+REM Press the dpad to spam someone
+ENTER
+TAB
+ENTER
+STRING i <3 spam
+TAB
+ENTER
+REPEAT 5
+REM Press the dpad to spam someone
