@@ -9,6 +9,4 @@ TAB
 TAB
 TAB
 TAB
-DELAY 400
-ENTER
 REM goes through your apps that are currently opened
