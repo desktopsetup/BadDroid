@@ -1,4 +1,4 @@
-REM goes through your apps that are currently opened
+REM Goes through your apps that are currently opened
 ALT TAB
 DELAY 700
 LEFT ARROW
@@ -10,4 +10,4 @@ TAB
 LEFT ARROW
 TAB
 TAB
-REM goes through your apps that are currently opened
+REM Goes through your apps that are currently opened
