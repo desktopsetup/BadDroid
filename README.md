@@ -19,20 +19,13 @@ Description :
 
 https://user-images.githubusercontent.com/114778067/225493247-97df6960-d014-44c8-9b75-7443b74b1ba0.mp4
 
-
-ㅤ
-
-The "RLSWIPER testin" Script
-
-Description : Goes through the device and check out everything (is not perfect)
-
 ㅤ
 
 The "Gmail AutoFiller" Script
 
 Description :
 
-https://user-images.githubusercontent.com/114778067/225504841-61591b9b-aaa3-4a48-8d0d-03b166ab9529.mp4
+https://user-images.githubusercontent.com/114778067/225505713-f8e2b38f-8b4c-4833-90a9-c76fa5331933.mp4
 
 
 
