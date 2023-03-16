@@ -1,4 +1,4 @@
-REM opens your music
+REM Shortcut command opens (YouTube music, Spotify, Music Player)
 GUI p
 DELAY 500
 TAB
@@ -10,4 +10,4 @@ DELAY 500
 BACKSPACE
 DELAY 500
 SPACE
-REM opens your music
+REM Shortcut command opens (YouTube music, Spotify, Music Player)
