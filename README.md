@@ -10,7 +10,6 @@ with some of these scripts you can do more fun control for Android.
 
 
 such as :
-
 ㅤ
 
 The "Caught in 480p" Script
