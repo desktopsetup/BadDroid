@@ -32,7 +32,9 @@ The "Gmail AutoFiller" Script
 
 Description :
 
-https://user-images.githubusercontent.com/114778067/225417711-789dfdb1-5699-47b3-9ef3-c232bc3215f4.mp4
+https://user-images.githubusercontent.com/114778067/225504841-61591b9b-aaa3-4a48-8d0d-03b166ab9529.mp4
+
+
 
 
 
