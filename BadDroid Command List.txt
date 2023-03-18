@@ -1,0 +1,168 @@
+/// LIST OF BadDroid COMMANDS
+
+Chrome Command List for BadDroid
+
+
+CTRL 1
+CTRL 2
+CTRL 3
+CTRL 4
+CTRL 5
+CTRL 6
+CTRL 7
+CTRL 8
+CTRL 9
+REM goes to that specific tab
+CTRL t
+REM Opens new tab
+CTRL w
+REM Deletes tab
+CTRL-SHIFT n
+REM New Private tab
+CTRL d
+REM bookmarks a site
+CTRL h
+REM view your history
+CTRL p
+REM print screen menu
+CTRL TAB
+REM Next Tab
+CTRL s
+REM should save page 
+
+
+NON Specific Commands For BadDroid
+
+TAB
+REM Selects/hovers next clickable item
+GUI s
+REM opens SMS/Messenges
+GUI b
+REM opens Chrome
+GUI l
+REM opens calendar
+GUI c
+REM opens Contacts
+GUI e
+REM opens gmail
+GUI BACKSPACE
+REM opens google assist
+ALT TAB
+REM recents
+GUI n
+REM shows notifications
+ALT TAB
+REM opens menu of all apps
+GUI-CTRL s
+REM screenshots
+GUI p
+REM opens music list
+
+
+Text Editor Commands for BadDroid
+
+DELETE
+REM is the delete key
+CTRL a
+DELAY 700
+REM Select all text
+CTRL b
+DELAY 700
+REM Bold text
+CTRL i
+DELAY 700
+REM Italicize text
+CTRL u
+DELAY 700
+REM Underline text
+CTRL-SHIFT 8
+DELAY 700
+REM Insert bullet point
+
+
+
+
+
+
+
+
+
+
+
+/// OLD COMMANDS THAT DIDNT WORK Rem shows what they should have done, but didnt work for some apllications (may work for other device though)
+
+
+
+
+
+
+
+Contact commands for BadDroid (These didnt work when tested for there purpose)
+
+GUI c
+REM opens contacts
+CTRL n
+REM Makes a new message/contact
+CTRL i
+REM shows info
+CTRL f
+REM find someone
+CTRL l 
+REM edits a contact 
+CTRL TAB
+REM Should go to next contact 
+CTRL-SHIFT TAB
+REM back to previous contact 
+
+
+
+Photo commands for BadDroid (These didnt work when tested for there purpose, may work on other android devices)
+
+GUI-CTRL p
+REM opens photos
+GUI +
+GUI -
+REM zoom in and out in gallery
+CTRL s
+REM shares photo
+CTRL e
+REM edits photo
+DELETE
+CTRL d
+REM both should delete photo
+CTRL i 
+REM info about the photo
+CTRL r
+REM rotate the photo RIGHT
+CTRL l
+REM rotate the photo LEFT
+SPACE
+REM next photo
+SHIFT SPACE
+REM previous photo
+
+
+
+NOTE commands for BadDroid (These didnt work when tested for there purpose, may work on other android devices)
+
+CTRL n 
+REM make new note
+CTRL s
+REM save a note
+CTRL 1
+CTRL 2
+REM view notes different styles
+
+
+
+Gmail commands for BadDroid (These didnt work when tested for there purpose)
+
+CTRL-SHIFT n 
+REM should select all mail 
+CTRL SHIFT 3
+REM deletes mail
+CTRL SHIFT i
+REM marks email as read
+CTRL SHIFT u
+REM marks email as unread
+
