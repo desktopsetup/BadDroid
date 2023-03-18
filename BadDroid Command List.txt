@@ -2,7 +2,6 @@
 
 Chrome Command List for BadDroid
 
-
 CTRL 1
 CTRL 2
 CTRL 3
@@ -89,7 +88,7 @@ REM Insert bullet point
 
 
 
-/// OLD COMMANDS THAT DIDNT WORK Rem shows what they should have done, but didnt work for some apllications (may work for other device though)
+# OLD COMMANDS THAT DIDNT WORK Rem shows what they should have done, but didnt work for some apllications (may work for other device though)
 
 
 
