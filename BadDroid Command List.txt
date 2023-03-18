@@ -140,7 +140,7 @@ REM previous photo
 
 
 
-NOTE commands for BadDroid (These didnt work when tested for there purpose, may work on other android devices)
+NOTE commands for BadDroid (These didnt work when tested for there purpose)
 
 CTRL n 
 REM make new note
@@ -152,7 +152,7 @@ REM view notes different styles
 
 
 
-Gmail commands for BadDroid (These didnt work when tested for there purpose)
+Gmail commands for BadDroid (These didnt work when tested for there purpose, may work on other android devices)
 
 CTRL-SHIFT n 
 REM should select all mail 
