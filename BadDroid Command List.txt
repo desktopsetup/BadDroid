@@ -38,6 +38,10 @@ GUI s
 REM opens SMS/Messenges
 GUI b
 REM opens Chrome
+GUI r
+REM opens defualt search engine
+GUI m
+REM opens google maps
 GUI l
 REM opens calendar
 GUI c
