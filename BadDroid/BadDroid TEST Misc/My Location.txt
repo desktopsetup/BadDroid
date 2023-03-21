@@ -1,0 +1,16 @@
+REM Opens google maps if location is enable shows where you are (Not the most perfect script)
+GUI m
+DELAY 900
+TAB
+RIGHT
+DELAY 100
+RIGHT
+DELAY 400
+DOWN
+TAB
+DELAY 200
+DOWN
+DELAY 200
+DOWN
+ENTER
+REM Opens google maps if location is enable shows where you are (Not the most perfect script)
