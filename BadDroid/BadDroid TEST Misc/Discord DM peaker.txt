@@ -1,4 +1,4 @@
-REM Goes to last dm with someone on discord (may also go through last servers and browse trough)
+REM goes to last dm with someone on discord (may also go through last servers and browse trough)
 ENTER
 GUI i
 ENTER
@@ -16,5 +16,5 @@ UP ARROW
 DELAY 600
 ENTER
 GUI i
-ENTER
-REM Goes to last dm with someone on discord (may also go through last servers and browse trough)
+DOWN
+REM goes to last dm with someone on discord (may also go through last servers and browse trough)
